@@ -1,0 +1,19 @@
+{
+  "name": "basic-informational-site",
+  "version": "1.0.0",
+  "description": "Basic informational site to practice server side routing",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AndresEfQ/basic-informational-site.git"
+  },
+  "author": "AndresEfQ",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AndresEfQ/basic-informational-site/issues"
+  },
+  "homepage": "https://github.com/AndresEfQ/basic-informational-site#readme"
+}
